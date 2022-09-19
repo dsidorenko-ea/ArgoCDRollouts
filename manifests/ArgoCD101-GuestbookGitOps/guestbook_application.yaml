@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: guestbook-gitops
+  name: dsidorenko-ea
   namespace: argocd
 spec:
   destination:
